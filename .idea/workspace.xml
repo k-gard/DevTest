@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="DevTest:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84f6fb4a-a98d-49bf-8ede-21a1da072f27" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1oq683rpMjF342Qj01nTbyp8xkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DevTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f6fb4a-a98d-49bf-8ede-21a1da072f27" name="Default Changelist" comment="" />
+      <created>1614001610465</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614001610465</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614016329808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1614016329808" />
+    <state x="488" y="41" key="#com.intellij.ide.util.MemberChooser" timestamp="1614005574581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="41" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1614005574581" />
+    <state x="413" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1614015626995">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1614015626995" />
+    <state x="358" y="79" key="FileChooserDialogImpl" timestamp="1614015472620">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="358" y="79" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614015472620" />
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom" timestamp="1614019762232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614019762232" />
+    <state width="1323" height="149" key="GridCell.Tab.0.center" timestamp="1614019762232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1614019762232" />
+    <state width="1323" height="149" key="GridCell.Tab.0.left" timestamp="1614019762232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1614019762232" />
+    <state width="1323" height="149" key="GridCell.Tab.0.right" timestamp="1614019762232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="149" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614019762232" />
+    <state width="1323" height="185" key="GridCell.Tab.1.bottom" timestamp="1614012652346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1614012652346" />
+    <state width="1323" height="185" key="GridCell.Tab.1.center" timestamp="1614012652346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1614012652346" />
+    <state width="1323" height="185" key="GridCell.Tab.1.left" timestamp="1614012652346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1614012652346" />
+    <state width="1323" height="185" key="GridCell.Tab.1.right" timestamp="1614012652346">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="185" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1614012652346" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1614016109983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614016109983" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1614004789005">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1614004789005" />
+  </component>
+</project>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+        <persistence-unit name="devtest" transaction-type="RESOURCE_LOCAL">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+<!--        MySQL Configuration  -->
+        <properties>
+            <property name="hibernate.archive.autodetection" value="class, hbm"/>
+            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/devtestdb" />
+            <property name="javax.persistence.jdbc.user" value="dbuser" />
+            <property name="javax.persistence.jdbc.password" value="testuser" />
+            <property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+            <property name="hibernate.hbm2ddl.auto" value="none"/>
+        </properties>
+
+<!--             H2 Configuration-->
+
+<!--        <properties>-->
+<!--            <property name="hibernate.archive.autodetection" value="class, hbm"/>-->
+<!--            <property name="javax.persistence.jdbc.driver" value="org.h2.Driver" />-->
+<!--            <property name="javax.persistence.jdbc.url"    value="jdbc:h2:file:./devtestdb;DB_CLOSE_DELAY=-1" />-->
+<!--            <property name="javax.persistence.jdbc.user" value="sa" />-->
+<!--            <property name="javax.persistence.jdbc.password" value="" />-->
+<!--            <property name="hibernate.dialect" value="org.hibernate.dialect.H2Dialect"/>-->
+<!--            <property name="hibernate.hbm2ddl.auto" value="none" />-->
+<!--            <property name="show_sql" value="true"/>-->
+<!--            <property name="hibernate.temp.use_jdbc_metadata_defaults" value="false"/>-->
+<!--        </properties>-->
+
+<!--        SQL Server Configuration-->
+<!--        <properties>-->
+<!--            <property name="hibernate.archive.autodetection" value="class, hbm"/>-->
+<!--            <property name="javax.persistence.jdbc.driver" value="com.microsoft.sqlserver.jdbc.SQLServerDriver" />-->
+<!--            <property name="hibernate.dialect" value="org.hibernate.dialect.SQLServerDialect"/>-->
+<!--            <property name="javax.persistence.jdbc.url" value="jdbc:sqlserver://localhost:49852;DatabaseName=devtestdb" />-->
+<!--            <property name="javax.persistence.jdbc.user" value="dbuser" />-->
+<!--            <property name="javax.persistence.jdbc.password" value="testuser" />-->
+<!--            <property name="hibernate.format_sql" value="true" />-->
+<!--            <property name="hibernate.use_sql_comments" value="true" />-->
+<!--        </properties>-->
+    </persistence-unit>
+</persistence>
